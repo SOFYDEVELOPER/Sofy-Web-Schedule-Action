@@ -11,4 +11,4 @@ jobs:
         env:
           subscription_key: F0D2B9BF-930D-486B-B3A4-348AAF8902FE
           schedule_run_guid: 697744891749de90bd7b6bb9
-        uses: 'SOFYDEVELOPER/Sofy-Web-Task-Action@main'        
+        uses: 'SOFYDEVELOPER/Sofy-Web-Schedule-Action@main'        
